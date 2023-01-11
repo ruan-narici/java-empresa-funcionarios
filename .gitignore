@@ -4,4 +4,8 @@ bin/
 .settings/
 .classpath
 .project
+<<<<<<< HEAD
 .gitignore
+=======
+.gitignore
+>>>>>>> ad9aa76461738cf1366baf0ce592ad7827f361b5
